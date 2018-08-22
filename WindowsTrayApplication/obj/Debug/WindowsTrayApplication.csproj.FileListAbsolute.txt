@@ -1,0 +1,5 @@
+c:\users\m1034336\documents\visual studio 2017\Projects\WindowsTrayApplication\WindowsTrayApplication\bin\Debug\WindowsTrayApplication.exe.config
+c:\users\m1034336\documents\visual studio 2017\Projects\WindowsTrayApplication\WindowsTrayApplication\bin\Debug\WindowsTrayApplication.exe
+c:\users\m1034336\documents\visual studio 2017\Projects\WindowsTrayApplication\WindowsTrayApplication\bin\Debug\WindowsTrayApplication.pdb
+c:\users\m1034336\documents\visual studio 2017\Projects\WindowsTrayApplication\WindowsTrayApplication\obj\Debug\WindowsTrayApplication.exe
+c:\users\m1034336\documents\visual studio 2017\Projects\WindowsTrayApplication\WindowsTrayApplication\obj\Debug\WindowsTrayApplication.pdb
